@@ -17,7 +17,7 @@ Under the hood, `@SpringBootApplication` is composed of:
 
 ----------
 
-## 2. The Manual Bootstrapping Approach
+### 2. The Manual Bootstrapping Approach
 
 If you remove `@SpringBootApplication`, you can start the app like this:
 ```java
