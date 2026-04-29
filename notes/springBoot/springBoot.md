@@ -1,3 +1,9 @@
+# Q & A
+
+- [### Can we start SpringBoot Application without @SpringBootAppplication?](notes/springBoot/withoutSpringBootApplicationAnnotation.md)
+- [Spring Boot 3 Changes](notes/springBoot/springBoot3Changes.md)
+- [Spring Boot 4 Changes](notes/springBoot/springBoot4Changes.md)
+
 @SpringBootApplication is simply a **convenience meta-annotation** that bundles three specific configuration features.
 
 To start an application without it, you simply need to manually provide those three pillars.
